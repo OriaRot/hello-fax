@@ -1,0 +1,16 @@
+.files-wrapper{
+    display: flex;
+    flex-direction: row;
+    width: 1000px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.files-box{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 90%;
+    height: 90%;
+    gap: 30px;
+}

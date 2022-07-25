@@ -1,0 +1,35 @@
+.header-wraper{
+display: flex;
+flex-direction: row;
+height: 70px;
+justify-content: center;
+box-shadow: 0 4px 6px gray;
+}
+
+.header-box{
+display: flex;
+width: 90%;
+justify-content: space-between;
+align-items: center;
+}
+
+.header-inside{
+    display: flex;
+    font-size: 20px;
+    flex-direction: row;
+    gap:25px;
+}
+
+.mailBox-icon{
+font-size: 25px;
+}
+
+.mailBox-icon:hover{
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+
+.upload-text{
+    font-size: 20px;
+justify-self: flex-end;
+}

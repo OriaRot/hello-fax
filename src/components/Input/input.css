@@ -1,0 +1,10 @@
+.input-box{
+height: 50px;
+width: 250px;
+}
+.input{
+    height: 100%;
+    width: 100%;
+    text-align: end;
+    font-weight: bold;
+}

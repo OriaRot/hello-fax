@@ -1,0 +1,13 @@
+.file-box{
+    display: flex;
+    width: 500px;
+    justify-content: left;
+    align-items: center;
+}
+
+.file-content{
+    box-sizing: border-box;
+    width: 90%;
+    font-size: 20px;
+    text-align: center;
+}
